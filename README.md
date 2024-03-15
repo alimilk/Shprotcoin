@@ -1,0 +1,2 @@
+# Shprotcoin
+Repository for Shprotcoin
